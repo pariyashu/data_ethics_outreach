@@ -1,7 +1,7 @@
 title: "Memefluencer for Data Ethics"
 author: "Paribartan Humagain,Natalia Scharfenberg,Niklas Bub"
 description: "Study project Data Ethics Outreach Lab"
-permalink: /:title/
+permalink: /:Memefluencer/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
